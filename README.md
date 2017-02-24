@@ -1,7 +1,8 @@
 # Mandelbrot Explorer
-Michael McRoskey
 
 ![](images/example.png)
+
+A project by Michael McRoskey
 
 ----
 ## Overview
